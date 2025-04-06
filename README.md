@@ -1,5 +1,8 @@
 # Smart Loan Approval System - Credit Risk Analysis using XGBoost & SHAP
 
+![Credit Risk Analysis](https://github.com/user-attachments/assets/9ee1c60a-fa27-42e9-bfca-f9789ab3566a)
+
+
 
 A machine learning-powered web application that predicts whether a loan should be **approved or rejected** based on the applicant’s financial history. The system not only delivers a prediction but also **explains the rationale** behind each decision using SHAP (SHapley Additive exPlanations) for transparency and trust.
 
