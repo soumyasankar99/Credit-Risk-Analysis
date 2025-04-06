@@ -162,10 +162,10 @@ Dataset Used: LoanStats_2018Q4.csv (filtered and preprocessed)
 
 Fields: loan_amnt, int_rate, annual_inc, dti, delinq_2yrs, revol_util, loan_status, term, grade, home_ownership, etc.
 
-### 📜 License
+## 📜 License
 MIT License
 
-### 🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or PRs for:
 
 More robust SHAP visualizations
@@ -174,12 +174,12 @@ Additional preprocessing for real-world data
 
 UI improvements for better UX
 
-### 🙋‍♂️ Author
-Soumya Sankar 
+##🙋‍♂️ Author
+**Soumya Sankar**
 Data Engineer | ML Enthusiast | Data Engineer
 
-LinkedIn : https://www.linkedin.com/in/soumyasankar99/
+**LinkedIn** : https://www.linkedin.com/in/soumyasankar99/
 
-GitHub : https://github.com/soumyasankar99
+**GitHub** : https://github.com/soumyasankar99
 
 ⭐ If you like this project, don’t forget to Star the repo and share!
