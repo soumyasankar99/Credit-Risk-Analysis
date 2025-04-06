@@ -39,7 +39,7 @@ loan-approval-system/
 
 ├── loan_approval_app.py            # Main Streamlit app 
 
-├── sample_lendingclub_data.csv     # Raw training data (LendingClub format) 
+├── sample_lendingclub_data.csv     # Raw training data (LendingClub format)
 
 ├── xgb_credit_model.pkl            # Trained XGBoost model 
 
