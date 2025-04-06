@@ -149,7 +149,18 @@ Streamlit (Web Interface)
 Joblib (Model Persistence)
 
 ## 📚 Inspiration
+
 This project is inspired by real-world credit risk evaluation systems used by banks and fintechs to automate and explain loan decisions with fairness and transparency.
+
+## 📂 Dataset
+
+The project uses a sample of LendingClub’s publicly available loan data, which contains information on issued loans, borrower details, and repayment status.
+
+Source: LendingClub Loan Data
+
+Dataset Used: LoanStats_2018Q4.csv (filtered and preprocessed)
+
+Fields: loan_amnt, int_rate, annual_inc, dti, delinq_2yrs, revol_util, loan_status, term, grade, home_ownership, etc.
 
 ### 📜 License
 MIT License
