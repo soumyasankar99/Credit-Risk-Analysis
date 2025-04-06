@@ -90,7 +90,8 @@ streamlit run loan_approval_app.py
 ```
 
 
-📈 SHAP Visualization
+## 📈 SHAP Visualization
+
 Understand which features influenced the model decision with an interactive SHAP waterfall plot.
 
 
