@@ -1,0 +1,2 @@
+loan_amnt,int_rate,annual_inc,dti,delinq_2yrs,revol_util,grade,term,home_ownership,past_defaults,monthly_salary,available_balance
+28169,17.89,37558,1.23,1,89.45,E, 36 months,OWN,0,3129.8333333333335,1564.9166666666667
