@@ -1,7 +1,5 @@
 # 💰 Smart Loan Approval System - Credit Risk Analysis using XGBoost & SHAP
 
-<img width="960" alt="Loan-1" src="https://github.com/user-attachments/assets/db9c6a0e-c190-49e5-8a17-e270744f16ea" />
-
 
 A machine learning-powered web application that predicts whether a loan should be **approved or rejected** based on the applicant’s financial history. The system not only delivers a prediction but also **explains the rationale** behind each decision using SHAP (SHapley Additive exPlanations) for transparency and trust.
 
@@ -34,6 +32,7 @@ A machine learning-powered web application that predicts whether a loan should b
 ## 📁 Project Structure
 
 📦 loan-approval-system/ │ 
+
 ├── loan_approval_app.py # Main Streamlit app 
 
 ├── sample_lendingclub_data.csv  # Raw training data (LendingClub format) 
@@ -66,6 +65,8 @@ A machine learning-powered web application that predicts whether a loan should b
    - Features are derived, encoded, and scaled to match training format  
    - Model predicts the probability of loan approval  
    - SHAP values explain the prediction using waterfall plots
+
+<img width="960" alt="Loan-1" src="https://github.com/user-attachments/assets/db9c6a0e-c190-49e5-8a17-e270744f16ea" />
 
 ---
 
