@@ -1,0 +1,2 @@
+loan_amnt,int_rate,annual_inc,dti,delinq_2yrs,revol_util,grade,term,home_ownership,past_defaults,monthly_salary,available_balance
+34535,18.65,73472,8.81,1,98.43,D, 60 months,MORTGAGE,0,6122.666666666667,3061.3333333333335
