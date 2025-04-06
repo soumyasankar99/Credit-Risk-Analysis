@@ -1,11 +1,11 @@
-# 💰 Smart Loan Approval System - Credit Risk Analysis using XGBoost & SHAP
+# Smart Loan Approval System - Credit Risk Analysis using XGBoost & SHAP
 
 
 A machine learning-powered web application that predicts whether a loan should be **approved or rejected** based on the applicant’s financial history. The system not only delivers a prediction but also **explains the rationale** behind each decision using SHAP (SHapley Additive exPlanations) for transparency and trust.
 
 ---
 
-## 🚀 Project Objectives
+## Project Objectives
 
 - ✅ **Predict Credit Risk** using an XGBoost classifier.
 - 📈 **Analyze Financial Behavior** with key features like income, DTI, credit utilization, defaults, etc.
@@ -16,7 +16,7 @@ A machine learning-powered web application that predicts whether a loan should b
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 | Feature | Description |
 |--------|-------------|
@@ -31,21 +31,21 @@ A machine learning-powered web application that predicts whether a loan should b
 
 ## 📁 Project Structure
 
-📦 loan-approval-system/ 
+loan-approval-system/ 
 
 │ 
 
-├── loan_approval_app.py # Main Streamlit app 
+├── loan_approval_app.py            # Main Streamlit app 
 
-├── sample_lendingclub_data.csv  # Raw training data (LendingClub format) 
+├── sample_lendingclub_data.csv     # Raw training data (LendingClub format) 
 
-├── xgb_credit_model.pkl  # Trained XGBoost model 
+├── xgb_credit_model.pkl            # Trained XGBoost model 
 
-├── scaler.pkl  # Fitted StandardScaler 
+├── scaler.pkl                      # Fitted StandardScaler 
 
-├── updated_applicant_data.csv  # Sample applicant data for predictions 
+├── updated_applicant_data.csv      # Sample applicant data for predictions 
 
-├── requirements.txt  # Python dependencies 
+├── requirements.txt                # Python dependencies 
 
 └── README.md 
 
@@ -74,7 +74,7 @@ A machine learning-powered web application that predicts whether a loan should b
 
 ## 📦 Installation & Running
 
-### 🔧 Prerequisites
+### Prerequisites
 - Python 3.8+
 - pip
 - Recommended: virtualenv
