@@ -32,6 +32,7 @@ A machine learning-powered web application that predicts whether a loan should b
 ## 📁 Project Structure
 
 📦 loan-approval-system/ 
+
 │ 
 
 ├── loan_approval_app.py # Main Streamlit app 
@@ -46,7 +47,7 @@ A machine learning-powered web application that predicts whether a loan should b
 
 ├── requirements.txt  # Python dependencies 
 
-└── README.md \
+└── README.md 
 
 
 
@@ -116,7 +117,8 @@ High DTI
 
 <img width="960" alt="Loan-4" src="https://github.com/user-attachments/assets/6a26c935-3ca3-4221-aca6-439dc41e9bb0" />
 
-<img width="960" alt="Loan-5" src="https://github.com/user-attachments/assets/645b58c0-fd2d-48ce-9db1-b689c3d90e5e" />
+
+<img width="960" alt="Loan-6" src="https://github.com/user-attachments/assets/72a8d264-d3b9-4ee5-89cd-b9660934eb69" />
 
 
 ## 📧 Optional Add-ons (Coming Soon)
