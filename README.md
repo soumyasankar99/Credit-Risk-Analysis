@@ -96,17 +96,23 @@ Understand which features influenced the model decision with an interactive SHAP
 <img width="638" alt="Loan-2" src="https://github.com/user-attachments/assets/ba835e1a-a172-4059-a6d8-e337b3d12df3" />
 
 
-Example:
+## Example:
+
+### Loan Accepted ❌
 
 High income ✅
 
 Low credit utilization ✅
 
-High DTI ❌
+High DTI 
 → Final Score = 0.67
 → Loan Approved (Threshold: 0.60)
 
 <img width="960" alt="Loan-3" src="https://github.com/user-attachments/assets/6d920a8e-5fb0-4f0c-b7dd-52187cbe7a3d" />
+
+## Eaxmple:
+
+### Loan Rejected ❌
 
 <img width="960" alt="Loan-4" src="https://github.com/user-attachments/assets/6a26c935-3ca3-4221-aca6-439dc41e9bb0" />
 
