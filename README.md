@@ -113,7 +113,8 @@ High DTI ❌
 <img width="960" alt="Loan-5" src="https://github.com/user-attachments/assets/645b58c0-fd2d-48ce-9db1-b689c3d90e5e" />
 
 
-📧 Optional Add-ons (Coming Soon)
+## 📧 Optional Add-ons (Coming Soon)
+
 ✅ Batch Prediction Support
 
 📊 Dashboard for Loan Statistics
@@ -122,7 +123,8 @@ High DTI ❌
 
 📁 Export SHAP Explanation Report as PDF
 
-✨ Tech Stack
+## ✨ Tech Stack
+
 Python
 
 XGBoost
@@ -135,13 +137,13 @@ Streamlit (Web Interface)
 
 Joblib (Model Persistence)
 
-📚 Inspiration
+## 📚 Inspiration
 This project is inspired by real-world credit risk evaluation systems used by banks and fintechs to automate and explain loan decisions with fairness and transparency.
 
-📜 License
+### 📜 License
 MIT License
 
-🤝 Contributing
+### 🤝 Contributing
 Contributions are welcome! Feel free to open issues or PRs for:
 
 More robust SHAP visualizations
@@ -150,7 +152,7 @@ Additional preprocessing for real-world data
 
 UI improvements for better UX
 
-🙋‍♂️ Author
+### 🙋‍♂️ Author
 Soumya Sankar 
 Data Engineer | ML Enthusiast | Data Engineer
 
